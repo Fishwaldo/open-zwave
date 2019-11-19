@@ -9,7 +9,7 @@ Libraries to link to (Static and Dynamic) will be in top level directory as
 well (but you can change that as detailed below with LIBDIR)
 
 To Install:
-make install
+make install   
 
 Some Options you can set:
 "BUILD=(release|debug)" - Build a Release or Debug Version of the Library
