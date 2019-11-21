@@ -4,3 +4,5 @@ all: .DEFAULT
 	gmake ${.MAKEFLAGS} ${.TARGETS}
 
 .PHONY:	all
+ bbb
+ 
