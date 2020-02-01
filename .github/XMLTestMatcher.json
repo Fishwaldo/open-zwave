@@ -20,7 +20,7 @@
                 },
                 {
                     "regexp": "^(.*):.(.*)$",
-                    "file": 2,
+                    "file": 1,
                     "message": 2,
                     "loop": true
                 }
