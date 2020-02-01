@@ -16,7 +16,7 @@
             "owner": "ConfigDatabase",
             "pattern": [
                 {
-                    "regexp": "^Errors: [0-9]*\. \(Please Correct before Submitting to OZW\)$"
+                    "regexp": "^Errors: [0-9]*\\. \\(Please Correct before Submitting to OZW\\)$"
                 },
                 {
                     "regexp": "^(.*):.(.*)$",
