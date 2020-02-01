@@ -1,0 +1,15 @@
+{
+    "problemMatcher": [
+        {
+            "owner": "xmltest",
+            "pattern": [
+                {
+                    "regexp": "^.*(\/config\/.*):([0-9]*):.?(.*)$",
+                    "file": 1,
+                    "line": 2,
+                    "message": 3
+                }
+            ]
+        }
+    ]
+}
