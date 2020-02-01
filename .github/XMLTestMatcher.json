@@ -4,10 +4,11 @@
             "owner": "xmltest",
             "pattern": [
                 {
-                    "regexp": "^.*\/(.*):([0-9]*):.?(.*)$",
-                    "file": 1,
-                    "line": 2,
-                    "message": 3
+                    "regexp": "^(.*\/open\-zwave\/)(.*):([0-9]*):.?(.*)$",
+                    "fromPath": 1,
+                    "file": 2,
+                    "line": 3,
+                    "message": 4
                 }
             ]
         }
