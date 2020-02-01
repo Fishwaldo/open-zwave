@@ -9,5 +9,7 @@ jobs:
     
     steps:
     - uses: actions/checkout@v2
+    - name: install dependancies
+      run: sudo apt-get install libxml2-utils
     - name: make xmltest
       run: make xmltest
