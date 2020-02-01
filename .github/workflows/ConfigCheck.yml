@@ -1,6 +1,9 @@
-name: C/C++ CI
+name: Test Config Files
 
-on: [push]
+on: 
+  pull_request:
+    paths: 
+      - 'config/**'
 
 jobs:
   build:
