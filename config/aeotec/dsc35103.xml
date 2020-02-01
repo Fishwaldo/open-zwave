@@ -3,7 +3,7 @@ Aeotec DSC35103 Micro Double Switch
 https://aeotec.freshdesk.com/helpdesk/attachments/6009584523
 --><Product Revision="2" xmlns="https://github.com/OpenZWave/open-zwave">
   <MetaData>
-    <MetaDataItem name="OzwInfoPage">http://www.openzwave.com/device-database/0086:0011:0003</MetaDataItem>
+    <MetaDataItem ooof name="OzwInfoPage">http://www.openzwave.com/device-database/0086:0011:0003</MetaDataItem>
     <MetaDataItem name="ProductPic">images/aeotec/dsc35103.png</MetaDataItem>
     <MetaDataItem id="0011" name="ZWProductPage" type="0003">https://products.z-wavealliance.org/products/1622/</MetaDataItem>
     <MetaDataItem name="Description">Micro Double Smart Switch</MetaDataItem>
