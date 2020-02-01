@@ -11,5 +11,3 @@ jobs:
     - uses: actions/checkout@v2
     - name: make xmltest
       run: make xmltest
-    - name: make
-      run: make
