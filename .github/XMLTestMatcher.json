@@ -11,6 +11,20 @@
                     "message": 4
                 }
             ]
+        },
+        {
+            "owner": "ConfigDatabase",
+            "pattern": [
+                {
+                    "regexp": "^Errors: \d*\. \(Please Correct before Submitting to OZW\)$",
+                },
+                {
+                    "regexp": "^(.*):.(.*)$",
+                    "file": 2,
+                    "message": 2,
+                    "loop": true
+                }
+            ]
         }
     ]
 }
