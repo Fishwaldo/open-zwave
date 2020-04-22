@@ -5,7 +5,7 @@
 
 Our goal is to create free software library that interfaces with Z-Wave controllers, allowing anyone to create applications to control devices on a Z-Wave network, without requiring in-depth knowledge of the Z-Wave protocol. OpenZWave is not about creating Z-Wave devices (nodes). The project consists of the main library, written in C++ and wrappers and supporting projects, to interface different languages and protocol(s).
 
-This software is currently aimed at Application Developers who wish to incorporate Z-Wave functionality into their applications.
+This software is cu    rrently aimed at Application Developers who wish to incorporate Z-Wave functionality into their applications.
 
 Our Homepage is at [http://www.openzwave.net](http://www.openzwave.net/) and our Github Organization is located at [https://github.com/OpenZWave/](https://github.com/OpenZWave/). There are several repositories at that location. This is the README of the main project (often called "the library" or "OpenZWave" or "open-zwave"), located at [https://github.com/OpenZWave/open-zwave](https://github.com/OpenZWave/open-zwave).
 
