@@ -3,7 +3,7 @@
 # Greg Satz
 
 # GNU make only
-
+ 
 # requires libudev-dev
 
 .SUFFIXES:	.d .cpp .o .a
